@@ -2,5 +2,5 @@
 
 ```Bash
 git init
-
+Deleted INF1002
 ```
